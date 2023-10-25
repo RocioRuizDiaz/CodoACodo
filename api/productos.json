@@ -1,0 +1,96 @@
+[
+    { 
+        "id": 1, 
+        "nombre": "Notebook Hp Amd Ryzen 7 12gb Ram Ssd", 
+        "precio": 719.999,
+        "stock":7, 
+        "imgUrl": "../img/NoteBook_01.webp"
+    },
+  
+    { 
+        "id": 2, 
+        "nombre": "Notebook gamer Acer Aspire Nitro 5 AN515-54", 
+        "precio": 999.970,
+        "stock":7,
+        "imgUrl": "../img/Notebook_Gamer.webp" 
+    },
+  
+    { 
+        "id": 3,
+        "nombre": "Notebook Lenovo Ryzen 3 8gb Ram Ssd",
+        "precio": 717.679,
+        "stock":8, 
+        "imgUrl": "../img/NoteBook_4.webp" 
+    },
+  
+    { 
+        "id": 4, 
+        "nombre": "Notebook I5 Alto Rendimiento Portatil 15,6",
+        "precio": 994.149,
+        "stock":8,
+        "imgUrl": "../img/NoteBook_5.webp" 
+    },
+  
+    { 
+        "id": 5,
+        "nombre": "Pc Gamer Armada Amd Cpu Ryzen",
+        "precio": 427.469,
+        "stock":8,
+        "imgUrl": "../img/Escritorio_1.webp"
+     },
+  
+    { 
+        "id": 6,
+        "nombre": "Pc Gamer Escritorio Cpu Amd",
+        "precio": 367.809,
+        "stock":5,
+        "imgUrl": "../img/Escrito_3.webp"
+     },
+  
+    { 
+        "id": 7,
+        "nombre": "Pc Escritorio Gamer Ssd ",
+        "precio": 517.809,
+        "stock":7, 
+        "imgUrl": "../img/Escritorio_2.webp" 
+    },
+  
+    { 
+        "id": 8,
+        "nombre": "Pc Oficina Intel Escritorio",
+        "precio": 471.149,
+        "stock":7, 
+        "imgUrl": "../img/Escritorio_4.webp"
+  },
+    { 
+        "id": 9,
+        "nombre": "Placa De Video Rx 6800 Xt",
+        "precio": 931.349,
+        "stock":6, 
+        "imgUrl": "../img/Placa_1.webp"
+     },
+     { 
+        "id": 10,
+        "nombre": "Memoria Externa Hdd Wd 1tb",
+        "precio": 96.929,
+        "stock":5, 
+        "imgUrl": "../img/Memoria_2.webp" 
+    },
+  
+    { 
+        "id": 11,
+        "nombre": "Kit Mother Micro Memoria Ram", 
+        "precio": 251.599,
+        "stock":10, 
+        "imgUrl": "../img/Combo_3.webp" 
+    },
+  
+    {
+        "id": 12, 
+        "nombre": "Fuente  Pc Atx 500w", 
+        "precio": 30.859,
+        "stock":9, 
+        "imgUrl": "../img/Fuente_4.webp" 
+  }
+  
+  ]
